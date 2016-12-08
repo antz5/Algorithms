@@ -1,2 +1,2 @@
 # Algorithms
-Algorithms using C#
+This repository contains a list of algorithms written in C# language
