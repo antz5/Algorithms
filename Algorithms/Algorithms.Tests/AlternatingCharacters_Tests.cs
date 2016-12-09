@@ -21,7 +21,6 @@ namespace Algorithms.Tests
             }
         }
 
-
         [TestMethod]
         public void TestAlternatingCharacters2()
         {
