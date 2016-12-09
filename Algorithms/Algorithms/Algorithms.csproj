@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AlternatingCharacters.cs" />
+    <Compile Include="ChocolateFeast.cs" />
     <Compile Include="JuliusCaesor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
