@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AlternatingCharacters.cs" />
+    <Compile Include="BinarySearch.cs" />
     <Compile Include="ChocolateFeast.cs" />
     <Compile Include="CutTheSticks.cs" />
     <Compile Include="JuliusCaesor.cs" />

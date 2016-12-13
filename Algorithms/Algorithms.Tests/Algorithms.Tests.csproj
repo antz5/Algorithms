@@ -51,6 +51,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="ChocolateFeastTests.cs" />
+    <Compile Include="BinarySearch.Tests.cs" />
     <Compile Include="LinearSearch.Tests.cs" />
     <Compile Include="SticksTests.cs" />
     <Compile Include="JuliusCaesor_Tests.cs" />
