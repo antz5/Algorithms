@@ -50,12 +50,14 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="StringReverseUsingStacks.Tests.cs" />
     <Compile Include="InsertionSort.Tests.cs" />
     <Compile Include="SelectionSort.Tests.cs" />
     <Compile Include="BubbleSort.Tests.cs" />
     <Compile Include="ChocolateFeastTests.cs" />
     <Compile Include="BinarySearch.Tests.cs" />
     <Compile Include="LinearSearch.Tests.cs" />
+    <Compile Include="CheckForBalancedSymbols.Tests.cs" />
     <Compile Include="SticksTests.cs" />
     <Compile Include="JuliusCaesor_Tests.cs" />
     <Compile Include="AlternatingCharacters_Tests.cs" />

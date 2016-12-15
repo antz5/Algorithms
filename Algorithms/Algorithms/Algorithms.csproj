@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AlternatingCharacters.cs" />
+    <Compile Include="BalancingSymbolsUsingStacks.cs" />
     <Compile Include="BinarySearch.cs" />
     <Compile Include="BubbleSort.cs" />
     <Compile Include="ChocolateFeast.cs" />
@@ -49,6 +50,7 @@
     <Compile Include="JuliusCaesor.cs" />
     <Compile Include="LinearSearch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReversingStringUsingStack.cs" />
     <Compile Include="SelectionSort.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
