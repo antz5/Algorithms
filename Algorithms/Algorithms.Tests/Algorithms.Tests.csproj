@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="Check2StringsAreAnagram_Tests.cs" />
     <Compile Include="CountWordsInString_Tests.cs" />
+    <Compile Include="DetermineStringForUniqueCharacters_Tests.cs" />
     <Compile Include="IsStringPalindrome_Tests.cs" />
     <Compile Include="ReverseStringIterationAndRecursion_Tests.cs" />
     <Compile Include="StringReverseUsingStacks.Tests.cs" />
