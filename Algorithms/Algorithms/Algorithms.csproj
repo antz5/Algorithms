@@ -49,6 +49,7 @@
     <Compile Include="InsertionSort.cs" />
     <Compile Include="JuliusCaesor.cs" />
     <Compile Include="LinearSearch.cs" />
+    <Compile Include="RemoveDuplicateCharacters.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReversingStringUsingStack.cs" />
     <Compile Include="SelectionSort.cs" />
